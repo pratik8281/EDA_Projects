@@ -1,3 +1,3 @@
 # Data-Science
 This is my first Git Repository.
-Authore - Pratik Kolhe
+Authore - Pratik (PK)
