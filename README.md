@@ -1,3 +1,3 @@
 # Data-Science
-This is my first Git Repository.
+EDA Projects
 Authore - Pratik (PK)
